@@ -6,3 +6,5 @@
 - Pada golang memiliki kontrol struktur percabangan dan perulangan. Untuk percabangan hanya ada if dan switch sedankan perulangan hanya ada for.
 
 - Menambah sesuatu pada bari ini
+
+- Menambah Lagi disini 
